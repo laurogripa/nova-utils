@@ -192,8 +192,8 @@
         "name": "WeTEE Testnet (TESTNET)"
     },
     {
-        "chainId": "ea979dc47498ad76dd4dedb153d4d029d8739dd6d2ff7ff969decc9a4ff5e005",
-        "name": "Xcavate dev (TESTNET)"
+        "chainId": "0d59015be2872d9b8968a4918ebba0ddf38919804b105ed161b1460fa14aa4a4",
+        "name": "Xcavate (TESTNET)"
     },
     {
         "chainId": "2a1c48f8cca28fb58a61647c8a97e3e2e782191da8e8d03ac7e79c9949ef938e",
@@ -294,10 +294,6 @@
     {
         "chainId": "ddb89973361a170839f80f152d2e9e38a376a5a7eccefcade763f46a8e567019",
         "name": "Shibuya Testnet (TESTNET)"
-    },
-    {
-        "chainId": "9ee86eefc3cc61c71a7751bba7f25e442da2512f408e6286153b3ccc055dccf0",
-        "name": "Subspace Gemini 1 (TESTNET)"
     },
     {
         "chainId": "43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101",
